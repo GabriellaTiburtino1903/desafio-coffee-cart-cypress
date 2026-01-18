@@ -1,0 +1,16 @@
+# dependências
+node_modules/
+
+# cache do Cypress
+.cypress/
+cypress/videos/
+cypress/screenshots/
+
+# arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
